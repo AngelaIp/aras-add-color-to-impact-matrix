@@ -1,0 +1,8 @@
+# ignore logs
+Test\Logs\*.log
+Test/Logs/*.log
+
+Test\package\*
+Test/package/*
+
+aras-add-color-to-impact-matrix/
