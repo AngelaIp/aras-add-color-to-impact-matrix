@@ -24,7 +24,7 @@ for (int i = 0; i < this.getItemCount()-1; i++)
             
         case "Superseded":
         case "Obsolete" :
-            bg_color_state = "#90EE90"; // light green
+            bg_color_state = "#FFBBBB"; // light red
             break;
             
         default:
