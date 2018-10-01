@@ -27,15 +27,18 @@ Internet Explorer 11, Chrome 66.0, Firefox ESR 52.7.4
 3. Add the Method in your target ItemType (e.g. Part) in tab **Server Events**
 4. Use event **onAfterGet**
 
-![cui-select-starting-page](./Screenshots/main-grid-sample.png)
+![aras-add-color-to-impact-matrix](./Screenshots/main-grid-sample.png)
 
 ### Sample 2: Add background color to impact matrix
 1. Open Method **Express ECO ImpactMatrixGrid**
 2. Add state color in Impact Matrix by modifying RowClass around line 1603/1604
 3. See more instruction in the code comments
 
-![cui-select-starting-page](./Screenshots/impact-matrix-sample.png)
+![aras-add-color-to-impact-matrix](./Screenshots/impact-matrix-sample.png)
 
+### Sample 3: Color appearance of List items (without Methods)
+
+![aras-add-color-to-impact-matrix](./Screenshots/color_list_items.png)
 
 ## Contributing
 
